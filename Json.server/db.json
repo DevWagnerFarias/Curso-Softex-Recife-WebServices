@@ -1,0 +1,41 @@
+{
+  "alunos": [
+    {
+      "id": 2,
+      "nome": "Jorge Sampaio",
+      "serie": "2o ano",
+      "nota": 6.5,
+      "aprovado": false,
+      "professorId": 2
+    },
+    {
+      "id": 3,
+      "nome": "Priscila Alcantara",
+      "serie": "2o ano",
+      "nota": 9.5,
+      "aprovado": true,
+      "professorId": 2
+    },
+    {
+      "id": 4,
+      "nome": "Martin Silva",
+      "serie": "2o ano",
+      "nota": 5.5,
+      "aprovado": false,
+      "professorId": 1
+    }
+  ],
+
+  "professor": [
+    {
+      "id": 1,
+      "nome": "Marta Andrade",
+      "materia": "História"
+    },
+    {
+      "id": 2,
+      "nome": "Lucia Souto",
+      "materia": "geografia"
+    }
+  ]
+}
